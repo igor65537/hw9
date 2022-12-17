@@ -11,6 +11,7 @@ module.exports = {
     sourceType: "module",
   },
   rules: {
+    "no-plusplus": "off",
     "import/prefer-default-export": "off",
     "max-len": [
       "error",
